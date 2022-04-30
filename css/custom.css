@@ -1,0 +1,23 @@
+.header-3 .mad-header-section--sticky-xl {
+    padding: 0.75rem 0;
+}
+
+.mad-logo img{
+    width: 50%;
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .mad-logo img{
+        width: 20%;
+    }
+}
+
+@media (min-width: 1024px){
+    .mad-logo img{
+        width: 140px;
+    }
+}
+
+.mad-social-icons ul{
+    justify-content: center;
+}
